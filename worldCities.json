@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Perth",
+    "population": 23309,
+    "lat": -4561.31012,
+    "long": 2352.123123
+  },
+  {
+    "name": "Sydney",
+    "population": 3245634,
+    "lat": -925.31012,
+    "long": 1893.12413
+  },
+  {
+    "name": "Canberra",
+    "population": 23456256,
+    "lat": -4561.31012,
+    "long": 2352.123123
+  },
+  {
+    "name": "Brisbane",
+    "population": 2456256,
+    "lat": -457.7835,
+    "long": 3456.1235
+  }
+]
